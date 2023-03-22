@@ -1,2 +1,3 @@
-# -Covid19-Predictor
-It is a web-based IOT and ML predictor that may assist users in predicting the likelihood of contracting Covid while lounging in the comfort of their own home, predicting the likelihood that Covid would spread to their neighbourhood, and recommending safety precautions in that scenario.
+# Covid-19-Predictor
+It is a Web-based IOT and ML Predictor that can help users to predict chances of Covid while sitting at the comfort of their home,  predict chances of spread of Covid in their neighborhood and advices some precautionary measures in that case.
+We have tried to combine all the elements into a band which can be easily worn and can give expected results.
